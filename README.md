@@ -31,3 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mratunjya&" alt="mratunjya" /></p>
 
+[![An image of @mratunjya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratunjya)](https://holopin.io/@mratunjya)
