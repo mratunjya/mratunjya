@@ -35,4 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mratunjya&" alt="mratunjya" /></p>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/663c77d322d90a0814d0e13e?variant=dark)](https://roadmap.sh)
+
 [![An image of @mratunjya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratunjya)](https://holopin.io/@mratunjya)
