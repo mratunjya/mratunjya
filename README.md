@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mratunjya Shankhdhar</h1>
 
 # 💫 About Me:
-💻 I'm a Software Development Engineer @ Amaha (formerly InnerHour)
+💻 I'm a Fullstack Engineer @ Amaha(formerly InnerHour)
 
 
 ## 🌐 Socials:
