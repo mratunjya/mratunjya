@@ -1,40 +1,88 @@
 <h1 align="center">Hi 👋, I'm Mratunjya Shankhdhar</h1>
+<h3 align="center">Senior Software Engineer | Ruby on Rails</h3>
 
-# 💫 About Me:
-💻 I'm a Full Stack Engineer @ Amaha(formerly InnerHour)
+<p align="center">
+  <a href="https://linkedin.com/in/mratunjya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/mratunjya" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://stackoverflow.com/users/22290829" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://mratunjya-resume.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mratunjya_shankhdhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mratunjya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22290829) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mratunjya) 
-
-# 💻 Tech Stack:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mratunjya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mratunjya&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mratunjya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mratunjya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mratunjya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mratunjya&label=Profile%20views&color=CC342D&style=flat" alt="Profile Views" />
+</p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mratunjya&label=Profile%20views&color=0e75b6&style=flat" alt="mratunjya" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mratunjya&show_icons=true&locale=en&layout=compact" alt="mratunjya" /></p>
+### 💫 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mratunjya&show_icons=true&locale=en" alt="mratunjya" /></p>
+I am a backend-focused Senior Software Engineer with over 4 years of experience building scalable, maintainable systems. Currently, I'm working at **Amaha** (formerly InnerHour), where I design full-system architectures and lead implementation strategies. 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mratunjya&" alt="mratunjya" /></p>
+- 🔭 I’m currently focused on **Ruby on Rails** backend architectures and system-level design.
+- 🛠 I care deeply about testing (**RSpec**) and maintaining high code quality through rigorous **code reviews**.
+- 💡 I love translating complex business needs into elegant engineering solutions and clean API contracts.
+- 💬 Ask me about **Ruby, Rails, System Architecture, and Backend Scaling**.
 
-[![roadmap.sh](https://roadmap.sh/card/wide/663c77d322d90a0814d0e13e?variant=dark)](https://roadmap.sh)
+---
 
-[![An image of @mratunjya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratunjya)](https://holopin.io/@mratunjya)
+### 💻 Tech Stack
+
+**Backend & Databases** <br/>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+
+**Frontend** <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+**Tools & Platforms** <br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mratunjya&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mratunjya&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mratunjya&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 👾 The Fun Stuff
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" alt="Random Dev Quote" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=vue-dark&hideBorder=true" alt="Jokes Card" />
+</p>
+
+---
+
+### 🏆 Badges & Achievements
+
+<p align="center">
+  <a href="https://holopin.io/@mratunjya" target="_blank">
+    <img src="https://holopin.me/mratunjya" alt="Holopin Badges" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://roadmap.sh" target="_blank">
+    <img src="https://roadmap.sh/card/wide/663c77d322d90a0814d0e13e?variant=dark" alt="roadmap.sh" />
+  </a>
+</p>
